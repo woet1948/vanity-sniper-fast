@@ -1,3 +1,3 @@
-bi kardesimizin kodudur daha öncesindede publicledim tekrardan :)
+bi kardesimizin kodudur daha öncesindede publicledim tekrardan :))
 
 @ woet.mjs
