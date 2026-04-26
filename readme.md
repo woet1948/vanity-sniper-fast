@@ -5,4 +5,4 @@ bi kardesimizin kodudur daha öncesindede publicledim tekrardan :))
 
 ## Discord
 
-![Discord Status](https://api.statusbadges.me/badge/status/1430805695862669316)
+[![Discord](https://api.statusbadges.me/badge/status/1430805695862669316)](https://discord.com/users/1430805695862669316)
